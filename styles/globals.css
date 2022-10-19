@@ -1,9 +1,24 @@
+@font-face {
+  font-family: "PPPangramSansRoundedLight";
+  src: url("../public/fonts/PangramRounded/PPPangramSansRounded-Light.otf")
+    format("opentype");
+}
+@font-face {
+  font-family: "PPPangramSansRoundedMedium";
+
+  src: url("../public/fonts/PangramRounded/PPPangramSansRounded-Medium.otf")
+    format("opentype");
+}
+@font-face {
+  font-family: "PPPangramSansRoundedBold";
+  src: url("../public/fonts/PangramRounded/PPPangramSansRounded-Bold.otf")
+    format("opentype");
+}
+
 html,
 body {
   padding: 0;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
 }
 
 a {
