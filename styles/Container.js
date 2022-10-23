@@ -4,7 +4,7 @@ export const Container = styled.div`
   min-height: 100vh;
   color: #171717;
 
-  video {
+  /* video {
     width: 100%;
     height: 100%;
     background-size: cover;
@@ -16,5 +16,5 @@ export const Container = styled.div`
     top: 0;
     left: 0;
     object-fit: cover;
-  }
+  } */
 `;
