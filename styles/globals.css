@@ -1,24 +1,21 @@
 @font-face {
-  font-family: "PPPangramSansRoundedLight";
-  src: url("../public/fonts/PangramRounded/PPPangramSansRounded-Light.otf")
-    format("opentype");
+  font-family: "BebasNeueProLight";
+  src: url("../public/fonts/Bebas/BebasNeueProLight.otf") format("opentype");
 }
 @font-face {
-  font-family: "PPPangramSansRoundedMedium";
+  font-family: "BebasNeueProRegular";
 
-  src: url("../public/fonts/PangramRounded/PPPangramSansRounded-Medium.otf")
-    format("opentype");
+  src: url("../public/fonts/Bebas/BebasNeueProRegular.otf") format("opentype");
 }
 @font-face {
-  font-family: "PPPangramSansRoundedBold";
-  src: url("../public/fonts/PangramRounded/PPPangramSansRounded-Bold.otf")
-    format("opentype");
+  font-family: "BebasNeueProBold";
+  src: url("../public/fonts/Bebas/BebasNeueProBold.otf") format("opentype");
 }
 
 * {
   padding: 0;
   margin: 0;
-  font-family: PPPangramSansRoundedBold, sans-serif;
+  font-family: BebasNeueProRegular, sans-serif;
 }
 
 a {

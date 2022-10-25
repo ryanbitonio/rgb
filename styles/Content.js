@@ -9,15 +9,19 @@ export const Content = styled.div`
 
   h1 {
     color: #171717;
-    font-size: 5rem;
+    font-size: 7rem;
     text-align: center;
+    font-family: "BebasNeueProBold";
+    line-height: 5.5rem;
+    letter-spacing: -0.1rem;
   }
 
   p {
-    font-family: "PPPangramSansRoundedLight", sans-serif;
+    font-family: "BebasNeueProLight";
     font-size: 1.4rem;
     text-align: center;
     letter-spacing: 0.15rem;
+    margin: 1rem 0 5rem 0;
   }
 
   svg {
